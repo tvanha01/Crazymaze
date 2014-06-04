@@ -19,6 +19,7 @@ Crazymaze
 
 
 ##How to run the program
+###run the Maze file
 ###you have to be connected to the internet so the images will load.
 ###there is a media audio file; you might have to change the source path (file included).
 
